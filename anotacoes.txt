@@ -1,1 +1,15 @@
-a
+after dark
+
+1. prompt cowboy - ajuda a construir prompts
+
+2. theres na ai for that - autoexplicativo, busca uma ia para o que você quer fazer
+
+3. notebookLM - trata de documentos (estuda eles), e pode fazer mapas mentais, etc, com isso, o contexto fica localizado, a ia so vai responder o que ela sabe, se eu der uma apostila da escola, e perguntar sobre alguma coisa, a ia so vai responder o que tem na apostila
+
+4. suno ai - musica, meu nome é dhomini
+
+5. manus ai - automatiza processos, é um agente. Se eu quiser comprar um pc gamer, o manus pode criar um robô que vai pesquisar o preco de vários pc gamers em diversos sites para achar o melhor preco
+
+6. napkin - faz imagens ou gráficos através de um texto
+
+7. kaggle.com - plataforma gratuita com data sets para treinar IAs
